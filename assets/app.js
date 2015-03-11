@@ -43,7 +43,7 @@ function get_repos(){
 		});
 		
 		//$('#gravatar_img').attr( 'src', 'https://secure.gravatar.com/avatar/'+repos[0].owner.gravatar_id+'?s=512' ).show();
-		$('#gravatar_img').attr( 'src', 'profil.png' ).show();
+		$('#gravatar_img').attr( 'src', 'https://secure.gravatar.com/avatar/43f3fe9a1b21114e77c68825c0f9d475?s=512' ).show();
 		
 		place_divs(  );
 
